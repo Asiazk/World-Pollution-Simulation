@@ -7,7 +7,8 @@
     Conclusion: Higher pollution levels affect average temperature within time
 
     SW requirements: Python 3.9
-    Run from command prompt from folder: Windows: Functions.py, Linux: python ./Functions.py
+    Make sure all py files are in the same folder: main.py, Classes.py, Constants.py, Functions.py
+    Run from command prompt from folder: Windows: main.py, Linux: python ./main.py
 """
 
 from Functions import *
