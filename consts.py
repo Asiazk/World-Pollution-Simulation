@@ -34,7 +34,7 @@ MOVE_DOWN = 2.5
 AIR_POLLUTION_INDEX = 0.03
 
 # -------------------- Default Configuration -------------------------
-# matching to the cell type: Land Sea Forest Iceberg Town
+# matching to the cell type: Land Sea Iceberg Forest Town
 INITIAL_POLLUTION_1 = (1, 2, 1, 2, 6)
 INITIAL_POLLUTION_2 = (3, 4, 3, 4, 8)
 INITIAL_POLLUTION_3 = (5, 6, 5, 6, 10)
