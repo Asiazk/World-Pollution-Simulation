@@ -1,6 +1,5 @@
-[![image](https://github.com/Asiazk/World-Pollution-Simulation/assets/108948948/f4bc6c9b-bebf-4b94-bf1d-ff85e1036d1c)](https://im.ezgif.com/tmp/ezgif-1-56534312f0.gif)
+![ezgif com-crop](https://github.com/Asiazk/World-Pollution-Simulation/assets/108948948/79b7959a-3c5b-4151-9626-516015dda128)
 
-  
   Simulation of pollution levels affects on average temperature
     The world is represented as biological automata
     Each cell can be part of: Land, Sea, Iceberg, Forest, Town
