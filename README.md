@@ -1,4 +1,4 @@
-![image](https://github.com/Asiazk/World-Pollution-Simulation/assets/108948948/f4bc6c9b-bebf-4b94-bf1d-ff85e1036d1c)
+[![image](https://github.com/Asiazk/World-Pollution-Simulation/assets/108948948/f4bc6c9b-bebf-4b94-bf1d-ff85e1036d1c)](https://im.ezgif.com/tmp/ezgif-1-56534312f0.gif)
 
   
   Simulation of pollution levels affects on average temperature
